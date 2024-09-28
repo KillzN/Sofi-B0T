@@ -1,4 +1,4 @@
-/*              Codigo Creado Por 𝐊𝐈𝐋𝐋𝐙𝐍
+/*              Codigo Creado Por Sofía
       (https://chat.whatsapp.com/FFB0fgdK3IP4ZEmZ8jF1CC)
 */
 
