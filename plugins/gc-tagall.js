@@ -5,7 +5,7 @@ let handler = async(m, { isOwner, isAdmin, conn, text, participants, args, comma
   }
   let pesan = args.join` `
   let oi = `*𝗔𝗖𝗧𝗜𝗩𝗔𝗧𝗘:* ${pesan}`
-  let teks = `*La que puede puede y como tu no pudiste te toca soportar🫦🔥*\n\n ${oi}\n\n➥ _*𝗟𝗜𝗦𝗧𝗔 𝗗𝗘 𝗕𝗢𝗠𝗕𝗢𝗡𝗘𝗦 🍭:*_\n`
+  let teks = `*La que puedAe puede y como tu no pudiste te toca soportar🫦🔥*\n\n ${oi}\n\n➥ _*𝗟𝗜𝗦𝗧𝗔 𝗗𝗘 𝗕𝗢𝗠𝗕𝗢𝗡𝗘𝗦 🍭:*_\n`
   for (let mem of participants) {
   teks += `🌺 ⇝ @${mem.id.split('@')[0]}\n`}
   teks += `└ *Sᴏғɪ-Bᴏᴛ ⇝ @𝗯𝘆.𝗺𝗮𝘆*`
